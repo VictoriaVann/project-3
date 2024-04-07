@@ -1,4 +1,4 @@
- <h3>Project Three: Add JavaScript</h3>
+ <h1>Project Three: Add JavaScript</h1>
       </button>
       <div class="panel">
         <section class="description">
