@@ -149,3 +149,18 @@ body {
         margin-bottom: 20px;
     }
 }
+
+#hobbies-slider {
+  display: flex;
+  overflow: hidden;
+}
+
+#hobbies-slider img {
+  flex: 0 0 auto;
+  margin-right: 10px;
+  transition: margin-right 0.3s ease;
+}
+
+#hobbies-slider img:last-child {
+  margin-right: 0;
+}
